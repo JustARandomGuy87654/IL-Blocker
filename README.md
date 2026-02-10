@@ -23,7 +23,8 @@ sudo ./il_block.sh
 ```
 ---
 Number of times this repo got banned: **0**
--# I'll re upload everytime this got banned
+I'll re upload everytime this got banned
 
 *"Big Brother notices. Requests from forbidden lands are denied. Freedom exists only where thought is unmonitored."*
 *Stay paranoid.*
+![Anti](https://github.com/JustARandomGuy87654/IL-Blocker/anti.png)
