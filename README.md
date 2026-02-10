@@ -1,15 +1,17 @@
-# IL-Blocker
-Want to remove the 🧃 from your linux system? This script's for u
-Sadly they are watching u everywhere, if you are reading this, then continue, please.
-This script is made for blockling requests from .il websites and il IP's
+# IL-Blocker 🚫🧃
+*Want to purge the 🧃's from your Linux system? You’re in the right place.*  
+*But beware, they’re always watching. If you’re reading this, it means you’ve caught their eye.*
+
+This script is designed to block requests from **.il domains** and **Israeli IP ranges**.
 
 # Functions
-You can:
-1 - Add domain to block
-2 - Remove domain
-3) List blocked domains
-4) Disable enforcement
-5) Purge everything (if you do this, **they** will be watching again)
+You can:  
+1 - **Add a domain to block**  
+2 - **Remove a domain from the blocklist**  
+3 - **List blocked domains**  
+4 - **Disable enforcement**  
+5 - **Purge everything** (but beware, **they** will be watching again)
 
-*"Big Brother notices. Requests from forbidden lands are denied, freedom exists only where thought is unmonitored"*
-Stay paranoid.
+# System log flavor
+*"Big Brother notices. Requests from forbidden lands are denied. Freedom exists only where thought is unmonitored."*
+*Stay paranoid.*
