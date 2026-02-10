@@ -27,4 +27,4 @@ I'll re upload everytime this got banned
 
 *"Big Brother notices. Requests from forbidden lands are denied. Freedom exists only where thought is unmonitored."*
 *Stay paranoid.*
-![Anti](https://github.com/JustARandomGuy87654/IL-Blocker/blob/main/anti_il.png)
+![Anti](https://raw.githubusercontent.com/JustARandomGuy87654/IL-Blocker/main/anti_il.png)
