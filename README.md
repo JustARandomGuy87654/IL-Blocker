@@ -12,6 +12,18 @@ You can:
 4 - **Disable enforcement**  
 5 - **Purge everything** (but beware, **they** will be watching again)
 
-# System log flavor
+# Install
+**Pacman & APT:**
+```
+sudo apt install git # Use sudo pacman -S git if you are in arch
+git clone https://github.com/JustARandomGuy87654/IL-Blocker
+cd IL-Blocker
+sudo chmod +x il_block.sh
+sudo ./il_block.sh
+```
+---
+Number of times this repo got banned: **0**
+-# I'll re upload everytime this got banned
+
 *"Big Brother notices. Requests from forbidden lands are denied. Freedom exists only where thought is unmonitored."*
 *Stay paranoid.*
